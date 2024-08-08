@@ -1,0 +1,63 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Find the angle measurement of x.",
+    "options": [
+      "11°",
+      "13°",
+      "15°",
+      "17°"
+    ],
+    "correct": 1,
+      "img": "./assests/images/1.jpg"
+
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Find the value of x in the given figure.",
+    "options": [
+      "129°",
+      "159°",
+      "139°",
+      "149°"
+    ],
+    "correct": 3,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Determine the value of x.",
+    "options": [
+      "139°",
+      "149°",
+      "119°",
+      "102°"
+    ],
+    "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Find the value of x in the given figure.",
+    "options": [
+      "10°",
+      "5°",
+      "20°",
+      "15°"
+    ],
+    "correct": 1,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "questionNo": "Q5",
+    "question": "What are the values of A in the given figure?",
+    "options": [
+      "75°",
+      "104°",
+      "76°",
+      "None of the above"
+    ],
+    "correct": 1,
+      "img": "./assests/images/5.jpg"
+  }
+]
